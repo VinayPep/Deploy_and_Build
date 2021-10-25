@@ -5,7 +5,7 @@ pipeline {
       steps {  echo "Python compile done" } 
     } 
     stage("Unit test") { 
-      steps { sh "python test.py" }
+      steps { sh "python3 test.py" }
     } 
    } 
  } 
