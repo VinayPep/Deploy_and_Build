@@ -29,8 +29,4 @@ class ShoppingCart:
 
     def apply_locals_discount(self):
         self.locals_discount = True
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
+
